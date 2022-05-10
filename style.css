@@ -73,6 +73,13 @@ main{
     font-size: 0.8vw;
     
 }
+#otsikko1 h3 {
+    margin:20px;
+    font-family: montserrat;
+    font-size: 1vw;
+    
+}
+
 #otsikko2{
     border:1px solid #335C67;
     height: 150px;
